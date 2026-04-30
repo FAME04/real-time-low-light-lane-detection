@@ -26,15 +26,14 @@ pc_pipeline.py
 pynq_pipeline.py
 
 dataset/
-enhancement_only/
-lane_detection_only/
+enhancement_only/(50_images dataset)
+lane_detection_only/(75 images dataset)
 
-results/
+outputs/
 enhancement_only/
 lane_detection_only/
 lane_detection_only/bad/
 
-demo/
 lane_detection_test_video/
 
 
