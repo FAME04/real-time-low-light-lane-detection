@@ -19,26 +19,23 @@ The system is designed to improve visibility in low-light conditions and enhance
 
 ## 📁 Repository Structure
 repo/
-│
-├── code/
-│ ├── enhancement_only.py
-│ ├── lane_detection_only.py
-│ ├── pc_pipeline.py
-│ └── pynq_pipeline.py
-│
-├── dataset/
-│ ├── enhancement_only/
-│ └── lane_detection_only/
-│
-├── results/
-│ ├── enhancement_only/
-│ ├── lane_detection_only/
-│ └── lane_detection_only/bad/
-│
-├── demo/
-│ └── lane_detection_test_video/
-│
-└── README.md
+code/
+enhancement_only.py
+lane_detection_only.py
+pc_pipeline.py
+pynq_pipeline.py
+
+dataset/
+enhancement_only/
+lane_detection_only/
+
+results/
+enhancement_only/
+lane_detection_only/
+lane_detection_only/bad/
+
+demo/
+lane_detection_test_video/
 
 
 ---
